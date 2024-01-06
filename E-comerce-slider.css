@@ -1,0 +1,146 @@
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+
+.ecommercr-slider{
+    text-align: center;
+   
+}
+
+.image{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-evenly;
+    
+}
+
+
+.img1{
+    border: solid gray 1px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.img1:hover{
+    opacity: 0.7;
+}
+
+.img2{
+    border: solid gray 1px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+.img2:hover{
+    opacity: 0.7;
+}
+
+.img3{
+    border: solid gray 1px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+    
+
+}
+.img3:hover{
+    opacity: 0.7;
+}
+
+.articl{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0px 2rem 0px 20px;
+    color: black;
+}
+
+.btn{
+    margin-top: 5px;
+  
+}
+
+
+.btn button{
+    width: 80px;
+    height: 40px;
+    background: gold;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.btn button:hover{
+    background: transparent;
+    border: solid black 1px;
+}
+
+
+.gallery{
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 300px;
+    margin: 10px;
+    
+}
+
+.gallery:hover{
+    border: 1px solid gold;
+
+}
+
+
+.p-name{
+    padding: 10px;
+    text-align: center;
+}
+
+.desc{
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+.button-shop{
+    margin: 10px;
+    text-align: center;
+
+}
+
+
+.p-price{
+    text-align: center;
+}
+
+
+.button-shop button{
+    width: 200px;
+    height: 40px;
+    color: black;
+    background-color: gold;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.button-shop button:hover{
+    background: transparent;
+    border: 1px solid black;
+}
+
+
